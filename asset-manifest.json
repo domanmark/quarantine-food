@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quarantine-food/static/css/main.176b7693.chunk.css",
+    "main.js": "/quarantine-food/static/js/main.43cb2a97.chunk.js",
+    "main.js.map": "/quarantine-food/static/js/main.43cb2a97.chunk.js.map",
+    "runtime-main.js": "/quarantine-food/static/js/runtime-main.0dfcb8cf.js",
+    "runtime-main.js.map": "/quarantine-food/static/js/runtime-main.0dfcb8cf.js.map",
+    "static/css/2.de424728.chunk.css": "/quarantine-food/static/css/2.de424728.chunk.css",
+    "static/js/2.553ff52f.chunk.js": "/quarantine-food/static/js/2.553ff52f.chunk.js",
+    "static/js/2.553ff52f.chunk.js.map": "/quarantine-food/static/js/2.553ff52f.chunk.js.map",
+    "index.html": "/quarantine-food/index.html",
+    "precache-manifest.0f75f204c928c1ff885ab46f34325ec1.js": "/quarantine-food/precache-manifest.0f75f204c928c1ff885ab46f34325ec1.js",
+    "service-worker.js": "/quarantine-food/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/quarantine-food/static/css/2.de424728.chunk.css.map",
+    "static/css/main.176b7693.chunk.css.map": "/quarantine-food/static/css/main.176b7693.chunk.css.map",
+    "static/js/2.553ff52f.chunk.js.LICENSE.txt": "/quarantine-food/static/js/2.553ff52f.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/quarantine-food/static/media/logo.b620f02b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dfcb8cf.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.553ff52f.chunk.js",
+    "static/css/main.176b7693.chunk.css",
+    "static/js/main.43cb2a97.chunk.js"
+  ]
+}
